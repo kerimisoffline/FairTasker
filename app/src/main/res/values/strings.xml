@@ -1,0 +1,38 @@
+<!--
+  ~ Created by Abdulkerim Yıldırım (kermmyldrm@gmail.com)
+  -->
+
+<resources>
+    <string name="app_name">FairTasker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_home">Yeni</string>
+    <string name="menu_assigment">Görev Takip</string>
+
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="create">Oluştur</string>
+    <string name="save">Kaydet</string>
+    <string name="delete">Sil</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+
+    <string name="person_add">Personel Ekle</string>
+    <string name="person_delete">Personel Çıkar</string>
+    <string name="job_add">İşlem Ekle</string>
+    <string name="job_delete">İşlem Çıkar</string>
+
+    <string name="employeer_edit_name">İsim giriniz</string>
+    <string name="employeer_edit_surname">Soyisim giriniz</string>
+
+    <string name="job_edit_name">İşlem ismi</string>
+    <string name="job_edit_hardness">İşlem zorluğu</string>
+
+    <string name="error_calculate">Personel ve işlem sayıları eşit olmalıdır</string>
+
+
+
+
+
+</resources>

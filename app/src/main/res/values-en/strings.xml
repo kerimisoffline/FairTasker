@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Abdulkerim Yıldırım (kermmyldrm@gmail.com)
+  -->
+
+<resources>
+    <string name="app_name">FairTasker</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_home">New</string>
+    <string name="menu_assigment">Schedule</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="person_add">Add Person</string>
+    <string name="person_delete">Delete Person</string>
+    <string name="job_add">Add Task</string>
+    <string name="job_delete">Delete Task</string>
+
+    <string name="employeer_edit_name">Enter Name</string>
+    <string name="employeer_edit_surname">Enter Surname</string>
+
+    <string name="job_edit_name">Job name</string>
+    <string name="job_edit_hardness">Job hardness</string>
+
+    <string name="error_calculate">Personal and job size must be equal</string>
+
+
+</resources>

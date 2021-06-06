@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Abdulkerim Yıldırım (kermmyldrm@gmail.com)
+  -->
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_new">
+    <fragment
+        android:id="@+id/navigation_new"
+        android:name="app.fairTasker.gg.ui.person.NewPersonFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_new_person" />
+    <fragment
+        android:id="@+id/navigation_new_job"
+        android:name="app.fairTasker.gg.ui.job.NewJobFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_new_job" />
+    <fragment
+        android:id="@+id/navigation_schedule"
+        android:name="app.fairTasker.gg.ui.assigment.SchedulingFragment"
+        android:label="@string/menu_assigment"
+        tools:layout="@layout/fragment_schedule" />
+
+</navigation>
